@@ -43,10 +43,12 @@ android {
 
 dependencies {
 
-    implementation project(':hapiAVPackerClinet')
-    implementation project(':hapiMp4Muxer')
-    implementation project(':hapiSrtMuxer')
-    implementation project(':hapiRTMPMuxer')
+    implementation project(':hapiAVPackerClinet') //client -> 采集 编码模块 必须依赖 //也可以单独  采集':hapiAVCapture'/':HapiAVEncoder'
+    //可选模块
+    implementation project(':hapiAVRender') //预览模块 视频 音频 本地回显 可选
+    implementation project(':hapiMp4Muxer') //mp4 录制
+    implementation project(':hapiSrtMuxer') //srt 推流
+    implementation project(':hapiRTMPMuxer')//rtmp推流
 
     implementation 'androidx.fragment:fragment-ktx:1.4.1'
     implementation 'androidx.lifecycle:lifecycle-common:2.1.0'

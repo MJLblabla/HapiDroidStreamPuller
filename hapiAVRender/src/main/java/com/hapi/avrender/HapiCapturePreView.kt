@@ -4,6 +4,7 @@ import android.content.Context
 import android.util.AttributeSet
 import android.widget.FrameLayout
 import com.hapi.avparam.VideoFrame
+import com.hapi.avparam.VideoRender
 import com.hapi.avrender.renderview.HapiGLSurfacePreview
 
 class HapiCapturePreView : FrameLayout, VideoRender {

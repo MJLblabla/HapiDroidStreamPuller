@@ -12,7 +12,7 @@ object  HapiTrackFactory {
         lifecycleOwner: LifecycleOwner,
         width: Int,
         height: Int
-    ): VideoTrack {
+    ): CameraXTrack {
         return CameraXTrack(width, height, context, lifecycleOwner)
     }
 
@@ -21,7 +21,7 @@ object  HapiTrackFactory {
         sampleRateInHz: Int = DEFAULT_SAMPLE_RATE,
         channelConfig: ChannelConfig = DEFAULT_CHANNEL_LAYOUT,
         audioFormat: SampleFormat = DEFAULT_SAMPLE_FORMAT
-    ): AudioTrack {
+    ): MicrophoneTrack {
         return MicrophoneTrack(lifecycleOwner, sampleRateInHz, channelConfig, audioFormat)
     }
 

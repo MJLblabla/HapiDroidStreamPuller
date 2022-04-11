@@ -1,0 +1,3 @@
+/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/.cxx/Debug/5q6k503v/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/.cxx/Debug/5q6k503v/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/.cxx/Debug/5q6k503v/arm64-v8a/CMakeFiles/avencoder.dir

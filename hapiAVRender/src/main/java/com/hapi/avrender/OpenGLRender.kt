@@ -2,6 +2,7 @@ package com.hapi.avrender
 
 import android.opengl.GLSurfaceView
 import com.hapi.avparam.VideoFrame
+import com.hapi.avparam.VideoRender
 import javax.microedition.khronos.egl.EGLConfig
 import javax.microedition.khronos.opengles.GL10
 

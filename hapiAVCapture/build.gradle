@@ -31,7 +31,6 @@ android {
 }
 
 dependencies {
-    api project(path: ':hapiAVRender')
 
     implementation 'androidx.camera:camera-core:1.0.2'
     implementation "androidx.camera:camera-camera2:1.1.0-beta02"

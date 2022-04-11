@@ -1,8 +1,8 @@
 package com.hapi.avcapture
 
 import com.hapi.avparam.*
-import com.hapi.avrender.OpenSLRender
-import com.hapi.avrender.VideoRender
+import com.hapi.avparam.AudioRender
+import com.hapi.avparam.VideoRender
 import java.util.*
 
 const val DEFAULT_SAMPLE_RATE = 44100
@@ -46,18 +46,11 @@ abstract class IVideoTrack internal constructor() : Track<VideoFrame> {
 }
 
 abstract class IAudioTrack internal constructor() : Track<AudioFrame> {
-    var isEarsBackAble = false
-        set(value) {
-            field = value
-            if (field) {
-                mOpenSLRender.create()
-            } else {
-                mOpenSLRender.release()
-            }
-        }
-    override var frameCall: FrameCall<AudioFrame>? = null
-    protected val mOpenSLRender by lazy { OpenSLRender() }
 
+
+    override var frameCall: FrameCall<AudioFrame>? = null
+
+    var mAudioRender: AudioRender? = null
 
     val innerFrameCalls = LinkedList<FrameCall<AudioFrame>>()
 
@@ -67,9 +60,7 @@ abstract class IAudioTrack internal constructor() : Track<AudioFrame> {
             it.onFrame(outFrame)
             outFrame = it.onProcessFrame(outFrame)
         }
-        if (isEarsBackAble) {
-            mOpenSLRender.onAudioFrame(outFrame)
-        }
+        mAudioRender?.onAudioFrame(outFrame)
         innerFrameCalls.forEach {
             it.onFrame(outFrame)
         }

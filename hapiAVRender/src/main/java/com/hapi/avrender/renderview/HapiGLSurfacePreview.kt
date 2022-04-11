@@ -6,7 +6,7 @@ import android.util.AttributeSet
 import com.hapi.avparam.VideoFrame
 import com.hapi.avrender.CaptureVideoSizeAdapter
 import com.hapi.avrender.OpenGLRender
-import com.hapi.avrender.VideoRender
+import com.hapi.avparam.VideoRender
 
 
 class HapiGLSurfacePreview : GLSurfaceView, VideoRender {
@@ -19,6 +19,7 @@ class HapiGLSurfacePreview : GLSurfaceView, VideoRender {
         setEGLContextClientVersion(3);
         setRenderer(mOpenGLRender)
         renderMode = GLSurfaceView.RENDERMODE_WHEN_DIRTY;
+
     }
 
     override fun onFrame(frame: VideoFrame) {
