@@ -1,0 +1,24 @@
+# ninja log v5
+0	374	1648314851	CMakeFiles/libai.dir/libai.cpp.o	1ade72db9101951
+375	473	1648314851	/Users/a1/dev/HapiStreaming/libai/build/intermediates/cxx/Debug/6d525f4c/obj/arm64-v8a/liblibai.so	f68d99f31278c1ee
+0	7	0	clean	f449f8d585484546
+0	7	0	clean	f449f8d585484546
+0	7	0	clean	f449f8d585484546
+0	5	0	clean	f449f8d585484546
+0	12	0	clean	f449f8d585484546
+0	7	0	clean	f449f8d585484546
+0	9	0	clean	f449f8d585484546
+0	6	0	clean	f449f8d585484546
+0	13	0	clean	f449f8d585484546
+0	7	0	clean	f449f8d585484546
+0	14	0	clean	f449f8d585484546
+0	7	0	clean	f449f8d585484546
+0	6	0	clean	f449f8d585484546
+0	8	0	clean	f449f8d585484546
+0	6	0	clean	f449f8d585484546
+0	20	0	clean	f449f8d585484546
+0	7	0	clean	f449f8d585484546
+1	549	1648322292	CMakeFiles/libai.dir/libai.cpp.o	1ade72db9101951
+549	696	1648322292	/Users/a1/dev/HapiStreaming/libai/build/intermediates/cxx/Debug/6d525f4c/obj/arm64-v8a/liblibai.so	f68d99f31278c1ee
+0	5	0	clean	f449f8d585484546
+0	5	0	clean	f449f8d585484546

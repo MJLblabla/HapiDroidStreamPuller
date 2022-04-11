@@ -1,0 +1,3 @@
+/Users/a1/dev/HapiStreaming/hapiAVAnalyzer/.cxx/RelWithDebInfo/4c1g406u/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/a1/dev/HapiStreaming/hapiAVAnalyzer/.cxx/RelWithDebInfo/4c1g406u/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/a1/dev/HapiStreaming/hapiAVAnalyzer/.cxx/RelWithDebInfo/4c1g406u/armeabi-v7a/CMakeFiles/libai.dir

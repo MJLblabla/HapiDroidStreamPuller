@@ -1,0 +1,7 @@
+Executable : /Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/a1/dev/HapiStreaming/librtcclient/.cxx/Debug/584h1qt3/x86_64
+librtcclient
+jvmArgs : 
+

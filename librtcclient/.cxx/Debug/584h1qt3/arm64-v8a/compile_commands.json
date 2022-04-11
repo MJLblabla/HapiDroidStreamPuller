@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/a1/dev/HapiStreaming/librtcclient/.cxx/Debug/584h1qt3/arm64-v8a",
+  "command": "/Users/a1/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/a1/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/a1/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dlibrtcclient_EXPORTS -I/Users/a1/dev/HapiStreaming/librtcclient/src/main/cpp/util -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/librtcclient.dir/util/librtcclient.cpp.o -c /Users/a1/dev/HapiStreaming/librtcclient/src/main/cpp/util/librtcclient.cpp",
+  "file": "/Users/a1/dev/HapiStreaming/librtcclient/src/main/cpp/util/librtcclient.cpp"
+}
+]

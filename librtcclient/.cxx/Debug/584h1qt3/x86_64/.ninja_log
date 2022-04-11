@@ -1,0 +1,25 @@
+# ninja log v5
+0	305	1648318330	CMakeFiles/librtcclient.dir/util/librtcclient.cpp.o	e982391e97afc3d4
+305	372	1648318330	/Users/a1/dev/HapiStreaming/librtcclient/build/intermediates/cxx/Debug/584h1qt3/obj/x86_64/liblibrtcclient.so	ac17a6dd292c314f
+0	5	0	clean	f449f8d585484546
+0	5	0	clean	f449f8d585484546
+0	6	0	clean	f449f8d585484546
+1	309	1648319509	CMakeFiles/librtcclient.dir/util/librtcclient.cpp.o	e982391e97afc3d4
+309	358	1648319509	/Users/a1/dev/HapiStreaming/librtcclient/build/intermediates/cxx/Debug/584h1qt3/obj/x86_64/liblibrtcclient.so	ac17a6dd292c314f
+0	6	0	clean	f449f8d585484546
+0	5	0	clean	f449f8d585484546
+0	6	0	clean	f449f8d585484546
+0	4	0	clean	f449f8d585484546
+0	7	0	clean	f449f8d585484546
+0	4	0	clean	f449f8d585484546
+0	4	0	clean	f449f8d585484546
+0	6	0	clean	f449f8d585484546
+0	5	0	clean	f449f8d585484546
+0	6	0	clean	f449f8d585484546
+0	6	0	clean	f449f8d585484546
+0	7	0	clean	f449f8d585484546
+0	5	0	clean	f449f8d585484546
+2	401	1648322300	CMakeFiles/librtcclient.dir/util/librtcclient.cpp.o	e982391e97afc3d4
+401	452	1648322300	/Users/a1/dev/HapiStreaming/librtcclient/build/intermediates/cxx/Debug/584h1qt3/obj/x86_64/liblibrtcclient.so	ac17a6dd292c314f
+0	6	0	clean	f449f8d585484546
+0	5	0	clean	f449f8d585484546

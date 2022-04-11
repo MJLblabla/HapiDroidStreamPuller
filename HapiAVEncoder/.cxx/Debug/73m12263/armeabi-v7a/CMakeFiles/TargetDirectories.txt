@@ -1,0 +1,3 @@
+/Users/a1/dev/HapiStreaming/HapiAVEncoder/.cxx/Debug/73m12263/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/a1/dev/HapiStreaming/HapiAVEncoder/.cxx/Debug/73m12263/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/a1/dev/HapiStreaming/HapiAVEncoder/.cxx/Debug/73m12263/armeabi-v7a/CMakeFiles/avencoder.dir

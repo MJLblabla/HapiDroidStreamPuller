@@ -1,0 +1,3 @@
+/Users/a1/dev/HapiStreaming/hapiAVNDKFullPacker/.cxx/Debug/6z3x2k4m/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/a1/dev/HapiStreaming/hapiAVNDKFullPacker/.cxx/Debug/6z3x2k4m/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/a1/dev/HapiStreaming/hapiAVNDKFullPacker/.cxx/Debug/6z3x2k4m/arm64-v8a/CMakeFiles/libstreaming.dir

@@ -1,0 +1,17 @@
+# ninja log v5
+0	9	0	clean	f449f8d585484546
+2	107	1649268325	CMakeFiles/libstreaming.dir/output/tslib/crc.cpp.o	ebf8a6c3e46928ae
+2	802	1649268326	CMakeFiles/libstreaming.dir/output/tslib/common.cpp.o	9c73d17553e273e8
+107	1115	1649268326	CMakeFiles/libstreaming.dir/output/tslib/simple_buffer.cpp.o	93f3891f413b3453
+3	1317	1649268326	CMakeFiles/libstreaming.dir/output/tslib/mpegts_demuxer.cpp.o	94e86ab95ba9977b
+0	1344	1649268326	CMakeFiles/libstreaming.dir/output/tslib/amf0.cpp.o	486d678cb6895ad4
+1	1388	1649268326	CMakeFiles/libstreaming.dir/output/rtmp/RTMPOutputContext.cpp.o	648b99a02b013396
+4	1416	1649268327	CMakeFiles/libstreaming.dir/output/tslib/mpegts_muxer.cpp.o	cf587383b6414d4e
+1	1418	1649268327	CMakeFiles/libstreaming.dir/libstreaming.cpp.o	3eb1516b6f78da08
+1	1477	1649268327	CMakeFiles/libstreaming.dir/output/srt/SRTOutputContext.cpp.o	dbe0e5dc5c50ab10
+1	2168	1649268327	CMakeFiles/libstreaming.dir/muxer/Muxer.cpp.o	33bc6ab76ce0bfec
+2	337	1649268355	CMakeFiles/libstreaming.dir/output/tslib/flv_muxer.cpp.o	86cdf9be590d1d8c
+2	616	1649268355	CMakeFiles/libstreaming.dir/output/tslib/ts_packet.cpp.o	93a5a8b4cbee7b25
+616	790	1649268355	/Users/a1/dev/HapiStreaming/hapiAVPacker/build/intermediates/cxx/Debug/6w4e1so7/obj/armeabi-v7a/liblibstreaming.so	14f860ebf8679fc1
+0	9	0	clean	f449f8d585484546
+0	5	0	clean	f449f8d585484546

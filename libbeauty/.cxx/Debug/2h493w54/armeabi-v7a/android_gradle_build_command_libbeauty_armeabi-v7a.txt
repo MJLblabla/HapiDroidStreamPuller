@@ -1,0 +1,7 @@
+Executable : /Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/a1/dev/HapiStreaming/libbeauty/.cxx/Debug/2h493w54/armeabi-v7a
+libbeauty
+jvmArgs : 
+

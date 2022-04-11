@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/a1/dev/HapiStreaming/librtcclient/.cxx/Debug/584h1qt3/armeabi-v7a'
+[1/2] Building CXX object CMakeFiles/librtcclient.dir/util/librtcclient.cpp.o
+[2/2] Linking CXX shared library /Users/a1/dev/HapiStreaming/librtcclient/build/intermediates/cxx/Debug/584h1qt3/obj/armeabi-v7a/liblibrtcclient.so

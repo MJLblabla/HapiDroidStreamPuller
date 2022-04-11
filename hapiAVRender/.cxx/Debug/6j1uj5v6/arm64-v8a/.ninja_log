@@ -1,0 +1,12 @@
+# ninja log v5
+2	742	1649574911	CMakeFiles/hapiplay.dir/util/GLUtils.cpp.o	aa84e69ac7a2c41e
+0	840	1649574911	CMakeFiles/hapiplay.dir/hapiplay.cpp.o	f3db32d54386b09e
+1	911	1649574912	CMakeFiles/hapiplay.dir/render/VideoGLRender.cpp.o	581ede50b64b0c8f
+0	940	1649574912	CMakeFiles/hapiplay.dir/render/OpenSLRender.cpp.o	dc47e1eaa9458329
+940	1101	1649574912	/Users/a1/dev/HapiStreaming/hapiAVRender/build/intermediates/cxx/Debug/6j1uj5v6/obj/arm64-v8a/libhapiplay.so	ff352dab5ca8236
+0	6	0	clean	f449f8d585484546
+7	896	1649583948	CMakeFiles/hapiplay.dir/util/GLUtils.cpp.o	aa84e69ac7a2c41e
+4	968	1649583948	CMakeFiles/hapiplay.dir/hapiplay.cpp.o	f3db32d54386b09e
+5	1048	1649583948	CMakeFiles/hapiplay.dir/render/VideoGLRender.cpp.o	581ede50b64b0c8f
+3	1083	1649583948	CMakeFiles/hapiplay.dir/render/OpenSLRender.cpp.o	dc47e1eaa9458329
+1083	1292	1649583948	/Users/a1/dev/HapiStreaming/hapiAVRender/build/intermediates/cxx/Debug/6j1uj5v6/obj/arm64-v8a/libhapiplay.so	ff352dab5ca8236

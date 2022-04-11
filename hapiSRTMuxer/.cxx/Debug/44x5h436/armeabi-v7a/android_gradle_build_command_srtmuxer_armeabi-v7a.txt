@@ -1,0 +1,7 @@
+Executable : /Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/a1/dev/HapiStreaming/hapiSrtMuxer/.cxx/Debug/44x5h436/armeabi-v7a
+srtmuxer
+jvmArgs : 
+

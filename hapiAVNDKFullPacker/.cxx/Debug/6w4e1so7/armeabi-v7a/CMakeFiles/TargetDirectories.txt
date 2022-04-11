@@ -1,0 +1,3 @@
+/Users/a1/dev/HapiStreaming/hapiAVPacker/.cxx/Debug/6w4e1so7/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/a1/dev/HapiStreaming/hapiAVPacker/.cxx/Debug/6w4e1so7/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/a1/dev/HapiStreaming/hapiAVPacker/.cxx/Debug/6w4e1so7/armeabi-v7a/CMakeFiles/libstreaming.dir

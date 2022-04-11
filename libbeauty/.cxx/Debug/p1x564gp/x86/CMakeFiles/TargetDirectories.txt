@@ -1,0 +1,3 @@
+/Users/a1/dev/HapiStreaming/libbeauty/.cxx/Debug/p1x564gp/x86/CMakeFiles/rebuild_cache.dir
+/Users/a1/dev/HapiStreaming/libbeauty/.cxx/Debug/p1x564gp/x86/CMakeFiles/edit_cache.dir
+/Users/a1/dev/HapiStreaming/libbeauty/.cxx/Debug/p1x564gp/x86/CMakeFiles/libbeauty.dir

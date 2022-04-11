@@ -1,0 +1,3 @@
+/Users/a1/dev/HapiStreaming/libai/.cxx/Debug/6d525f4c/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/a1/dev/HapiStreaming/libai/.cxx/Debug/6d525f4c/x86_64/CMakeFiles/edit_cache.dir
+/Users/a1/dev/HapiStreaming/libai/.cxx/Debug/6d525f4c/x86_64/CMakeFiles/libai.dir

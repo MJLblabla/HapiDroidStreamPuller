@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/a1/dev/HapiStreaming/HapiAVEncoder/.cxx/Debug/73m12263/arm64-v8a'
+ninja: no work to do.

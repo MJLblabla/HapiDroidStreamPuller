@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/a1/dev/HapiStreaming/hapiAVPacker/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/a1/dev/HapiStreaming/hapiAVPacker/.cxx/Debug/6w4e1so7/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/a1/dev/HapiStreaming/hapiAVPacker/.cxx/Debug/6w4e1so7/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "libstreaming::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "libstreaming",
+      "output": "/Users/a1/dev/HapiStreaming/hapiAVPacker/build/intermediates/cxx/Debug/6w4e1so7/obj/arm64-v8a/liblibstreaming.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

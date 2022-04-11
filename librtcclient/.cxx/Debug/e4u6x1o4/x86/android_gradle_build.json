@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/a1/dev/HapiStreaming/librtcclient/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/a1/dev/HapiStreaming/librtcclient/.cxx/Debug/e4u6x1o4/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/a1/dev/HapiStreaming/librtcclient/.cxx/Debug/e4u6x1o4/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "librtcclient::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "librtcclient",
+      "output": "/Users/a1/dev/HapiStreaming/librtcclient/build/intermediates/cxx/Debug/e4u6x1o4/obj/x86/liblibrtcclient.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/a1/dev/HapiStreaming/libai/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/a1/dev/HapiStreaming/libai/.cxx/Debug/6d525f4c/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/a1/dev/HapiStreaming/libai/.cxx/Debug/6d525f4c/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "libai::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "libai",
+      "output": "/Users/a1/dev/HapiStreaming/libai/build/intermediates/cxx/Debug/6d525f4c/obj/x86/liblibai.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/a1/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/a1/Library/Android/sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

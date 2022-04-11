@@ -1,0 +1,32 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "HapiStreaming"
+include ':app'
+
+//include ':hapiAVNDKFullPacker'
+
+//include ':libbeauty'
+//include ':librtcclient'
+//include ':hapiAVAnalyzer'
+include ':hapiAVRender'
+
+include ':hapiAVCapture'
+include ':baseAVParam'
+include ':HapiAVEncoder'
+include ':hapiMp4Muxer'
+include ':hapiAVPackerClinet'
+include ':hapiSrtMuxer'
+include ':hapiRTMPMuxer'
