@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/.cxx/Debug/5q6k503v/armeabi-v7a",
+  "command": "/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Davencoder_EXPORTS -I/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/include -I/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/common -I/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/util -I/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/resample -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/avencoder.dir/jinresample.cpp.o -c /Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/jinresample.cpp",
+  "file": "/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/jinresample.cpp"
+},
+{
+  "directory": "/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/.cxx/Debug/5q6k503v/armeabi-v7a",
+  "command": "/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/a1/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Davencoder_EXPORTS -I/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/include -I/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/common -I/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/util -I/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/resample -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC -o CMakeFiles/avencoder.dir/resample/AVResample.cpp.o -c /Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/resample/AVResample.cpp",
+  "file": "/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/src/main/cpp/resample/AVResample.cpp"
+}
+]

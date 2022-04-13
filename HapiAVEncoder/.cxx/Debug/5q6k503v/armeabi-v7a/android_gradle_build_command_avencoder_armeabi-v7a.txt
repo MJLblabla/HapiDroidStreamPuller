@@ -1,0 +1,7 @@
+Executable : /Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/.cxx/Debug/5q6k503v/armeabi-v7a
+avencoder
+jvmArgs : 
+

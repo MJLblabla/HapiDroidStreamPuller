@@ -1,0 +1,12 @@
+# ninja log v5
+0	81	1649837833	CMakeFiles/srtmuxer.dir/common/JVMCallBack.cpp.o	59f1ed633631b718
+0	566	1649837834	CMakeFiles/srtmuxer.dir/common/IConnection.cpp.o	ee7b462b9731df51
+0	693	1649837834	CMakeFiles/srtmuxer.dir/srt/SRTConnection.cpp.o	410a0ceada50aed7
+1	699	1649837834	CMakeFiles/srtmuxer.dir/srtmuxer.cpp.o	190824f32c6498e0
+700	770	1649837834	/Users/a1/workspace/HapiDroidStreamPuller/hapiSrtMuxer/build/intermediates/cxx/Debug/4m1k4n5g/obj/armeabi-v7a/libsrtmuxer.so	bf17ab535c1386f4
+0	10	0	clean	f449f8d585484546
+2	114	1649838033	CMakeFiles/srtmuxer.dir/common/JVMCallBack.cpp.o	59f1ed633631b718
+2	711	1649838033	CMakeFiles/srtmuxer.dir/common/IConnection.cpp.o	ee7b462b9731df51
+2	851	1649838034	CMakeFiles/srtmuxer.dir/srt/SRTConnection.cpp.o	410a0ceada50aed7
+2	869	1649838034	CMakeFiles/srtmuxer.dir/srtmuxer.cpp.o	190824f32c6498e0
+870	994	1649838034	/Users/a1/workspace/HapiDroidStreamPuller/hapiSrtMuxer/build/intermediates/cxx/Debug/4m1k4n5g/obj/armeabi-v7a/libsrtmuxer.so	bf17ab535c1386f4

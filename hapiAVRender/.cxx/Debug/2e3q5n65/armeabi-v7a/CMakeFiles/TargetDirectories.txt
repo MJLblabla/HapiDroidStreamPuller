@@ -1,0 +1,3 @@
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/.cxx/Debug/2e3q5n65/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/.cxx/Debug/2e3q5n65/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/.cxx/Debug/2e3q5n65/armeabi-v7a/CMakeFiles/hapiplay.dir

@@ -1,0 +1,26 @@
+ninja: Entering directory `/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/.cxx/Debug/2e3q5n65/armeabi-v7a'
+[1/5] Building CXX object CMakeFiles/hapiplay.dir/util/GLUtils.cpp.o
+[2/5] Building CXX object CMakeFiles/hapiplay.dir/hapiplay.cpp.o
+[3/5] Building CXX object CMakeFiles/hapiplay.dir/render/VideoGLRender.cpp.o
+[4/5] Building CXX object CMakeFiles/hapiplay.dir/render/OpenSLRender.cpp.o
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/src/main/cpp/render/OpenSLRender.cpp:285:66: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::queue<AudioFrame *, std::__ndk1::deque<AudioFrame *, std::__ndk1::allocator<AudioFrame *> > >::size_type' (aka 'unsigned int') [-Wformat]
+    LOGCATE("OpenSLRender::HandleAudioFrameQueue QueueSize=%lu", m_AudioFrameQueue.size());
+                                                           ~~~   ^~~~~~~~~~~~~~~~~~~~~~~~
+                                                           %u
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/src/main/cpp/util/LogUtil.h:11:86: note: expanded from macro 'LOGCATE'
+#define  LOGCATE(...) {  if(LOG_ABLE){ __android_log_print(ANDROID_LOG_ERROR,LOG_TAG,__VA_ARGS__); }}
+                                                                                     ^~~~~~~~~~~
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/src/main/cpp/render/OpenSLRender.cpp:300:21: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::queue<AudioFrame *, std::__ndk1::deque<AudioFrame *, std::__ndk1::allocator<AudioFrame *> > >::size_type' (aka 'unsigned int') [-Wformat]
+                    m_AudioFrameQueue.size());
+                    ^~~~~~~~~~~~~~~~~~~~~~~~
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/src/main/cpp/util/LogUtil.h:11:86: note: expanded from macro 'LOGCATE'
+#define  LOGCATE(...) {  if(LOG_ABLE){ __android_log_print(ANDROID_LOG_ERROR,LOG_TAG,__VA_ARGS__); }}
+                                                                                     ^~~~~~~~~~~
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/src/main/cpp/render/OpenSLRender.cpp:303:21: warning: format specifies type 'unsigned long' but the argument has type 'std::__ndk1::queue<AudioFrame *, std::__ndk1::deque<AudioFrame *, std::__ndk1::allocator<AudioFrame *> > >::size_type' (aka 'unsigned int') [-Wformat]
+                    m_AudioFrameQueue.size());
+                    ^~~~~~~~~~~~~~~~~~~~~~~~
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/src/main/cpp/util/LogUtil.h:11:86: note: expanded from macro 'LOGCATE'
+#define  LOGCATE(...) {  if(LOG_ABLE){ __android_log_print(ANDROID_LOG_ERROR,LOG_TAG,__VA_ARGS__); }}
+                                                                                     ^~~~~~~~~~~
+3 warnings generated.
+[5/5] Linking CXX shared library /Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/build/intermediates/cxx/Debug/2e3q5n65/obj/armeabi-v7a/libhapiplay.so

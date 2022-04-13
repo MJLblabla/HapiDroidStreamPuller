@@ -1,0 +1,4 @@
+ninja: Entering directory `/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/.cxx/Debug/5q6k503v/armeabi-v7a'
+[1/3] Building CXX object CMakeFiles/avencoder.dir/resample/AVResample.cpp.o
+[2/3] Building CXX object CMakeFiles/avencoder.dir/jinresample.cpp.o
+[3/3] Linking CXX shared library /Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/build/intermediates/cxx/Debug/5q6k503v/obj/armeabi-v7a/libavencoder.so

@@ -1,0 +1,18 @@
+# ninja log v5
+3	249	1649836997	CMakeFiles/rtmpmuxer.dir/common/JVMCallBack.cpp.o	37b0de83f95e8150
+0	845	1649836997	CMakeFiles/rtmpmuxer.dir/common/IConnection.cpp.o	ce3333854ac26e59
+4	935	1649836997	CMakeFiles/rtmpmuxer.dir/rtmpmuxer.cpp.o	ce18bffac362c5a4
+4	943	1649836997	CMakeFiles/rtmpmuxer.dir/rtmp/RTMPConnection.cpp.o	ecd3603a5affe988
+943	1169	1649836998	/Users/a1/workspace/HapiDroidStreamPuller/hapiRTMPMuxer/build/intermediates/cxx/Debug/666e1238/obj/arm64-v8a/librtmpmuxer.so	273380d01628a779
+0	6	0	clean	f449f8d585484546
+3	131	1649837834	CMakeFiles/rtmpmuxer.dir/common/JVMCallBack.cpp.o	37b0de83f95e8150
+1	652	1649837835	CMakeFiles/rtmpmuxer.dir/common/IConnection.cpp.o	ce3333854ac26e59
+4	742	1649837835	CMakeFiles/rtmpmuxer.dir/rtmp/RTMPConnection.cpp.o	ecd3603a5affe988
+5	758	1649837835	CMakeFiles/rtmpmuxer.dir/rtmpmuxer.cpp.o	ce18bffac362c5a4
+758	884	1649837835	/Users/a1/workspace/HapiDroidStreamPuller/hapiRTMPMuxer/build/intermediates/cxx/Debug/666e1238/obj/arm64-v8a/librtmpmuxer.so	273380d01628a779
+0	7	0	clean	f449f8d585484546
+1	128	1649838034	CMakeFiles/rtmpmuxer.dir/common/JVMCallBack.cpp.o	37b0de83f95e8150
+1	739	1649838035	CMakeFiles/rtmpmuxer.dir/common/IConnection.cpp.o	ce3333854ac26e59
+2	864	1649838035	CMakeFiles/rtmpmuxer.dir/rtmp/RTMPConnection.cpp.o	ecd3603a5affe988
+2	868	1649838035	CMakeFiles/rtmpmuxer.dir/rtmpmuxer.cpp.o	ce18bffac362c5a4
+868	1020	1649838035	/Users/a1/workspace/HapiDroidStreamPuller/hapiRTMPMuxer/build/intermediates/cxx/Debug/666e1238/obj/arm64-v8a/librtmpmuxer.so	273380d01628a779

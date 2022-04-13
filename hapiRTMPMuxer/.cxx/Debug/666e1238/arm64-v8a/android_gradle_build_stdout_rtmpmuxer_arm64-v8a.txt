@@ -1,0 +1,6 @@
+ninja: Entering directory `/Users/a1/workspace/HapiDroidStreamPuller/hapiRTMPMuxer/.cxx/Debug/666e1238/arm64-v8a'
+[1/5] Building CXX object CMakeFiles/rtmpmuxer.dir/common/JVMCallBack.cpp.o
+[2/5] Building CXX object CMakeFiles/rtmpmuxer.dir/common/IConnection.cpp.o
+[3/5] Building CXX object CMakeFiles/rtmpmuxer.dir/rtmp/RTMPConnection.cpp.o
+[4/5] Building CXX object CMakeFiles/rtmpmuxer.dir/rtmpmuxer.cpp.o
+[5/5] Linking CXX shared library /Users/a1/workspace/HapiDroidStreamPuller/hapiRTMPMuxer/build/intermediates/cxx/Debug/666e1238/obj/arm64-v8a/librtmpmuxer.so

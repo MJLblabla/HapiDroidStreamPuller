@@ -1,0 +1,6 @@
+ninja: Entering directory `/Users/a1/workspace/HapiDroidStreamPuller/hapiSrtMuxer/.cxx/Debug/4m1k4n5g/armeabi-v7a'
+[1/5] Building CXX object CMakeFiles/srtmuxer.dir/common/JVMCallBack.cpp.o
+[2/5] Building CXX object CMakeFiles/srtmuxer.dir/common/IConnection.cpp.o
+[3/5] Building CXX object CMakeFiles/srtmuxer.dir/srt/SRTConnection.cpp.o
+[4/5] Building CXX object CMakeFiles/srtmuxer.dir/srtmuxer.cpp.o
+[5/5] Linking CXX shared library /Users/a1/workspace/HapiDroidStreamPuller/hapiSrtMuxer/build/intermediates/cxx/Debug/4m1k4n5g/obj/armeabi-v7a/libsrtmuxer.so

@@ -1,0 +1,6 @@
+ninja: Entering directory `/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/.cxx/Debug/2e3q5n65/arm64-v8a'
+[1/5] Building CXX object CMakeFiles/hapiplay.dir/util/GLUtils.cpp.o
+[2/5] Building CXX object CMakeFiles/hapiplay.dir/hapiplay.cpp.o
+[3/5] Building CXX object CMakeFiles/hapiplay.dir/render/VideoGLRender.cpp.o
+[4/5] Building CXX object CMakeFiles/hapiplay.dir/render/OpenSLRender.cpp.o
+[5/5] Linking CXX shared library /Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/build/intermediates/cxx/Debug/2e3q5n65/obj/arm64-v8a/libhapiplay.so

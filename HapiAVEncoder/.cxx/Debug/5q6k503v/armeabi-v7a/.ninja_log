@@ -1,0 +1,8 @@
+# ninja log v5
+0	398	1649837851	CMakeFiles/avencoder.dir/resample/AVResample.cpp.o	c88f86dfd4d8c12a
+0	538	1649837851	CMakeFiles/avencoder.dir/jinresample.cpp.o	ba4f11c2f6e85c19
+538	611	1649837851	/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/build/intermediates/cxx/Debug/5q6k503v/obj/armeabi-v7a/libavencoder.so	9f6b806bd5438229
+0	6	0	clean	f449f8d585484546
+1	406	1649838048	CMakeFiles/avencoder.dir/resample/AVResample.cpp.o	c88f86dfd4d8c12a
+1	528	1649838048	CMakeFiles/avencoder.dir/jinresample.cpp.o	ba4f11c2f6e85c19
+528	591	1649838048	/Users/a1/workspace/HapiDroidStreamPuller/HapiAVEncoder/build/intermediates/cxx/Debug/5q6k503v/obj/armeabi-v7a/libavencoder.so	9f6b806bd5438229

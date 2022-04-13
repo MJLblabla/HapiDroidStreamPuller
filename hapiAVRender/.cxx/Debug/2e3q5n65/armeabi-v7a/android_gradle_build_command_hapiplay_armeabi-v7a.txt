@@ -1,0 +1,7 @@
+Executable : /Users/a1/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/a1/workspace/HapiDroidStreamPuller/hapiAVRender/.cxx/Debug/2e3q5n65/armeabi-v7a
+hapiplay
+jvmArgs : 
+
